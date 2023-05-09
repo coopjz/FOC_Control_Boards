@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "kicad_lceda")(type "Legacy")(uri "${KIPRJMOD}/kicad_lceda.lib")(options "")(descr ""))
+  (lib (name "MPU-6500")(type "KiCad")(uri "${KIPRJMOD}/MPU-6500/MPU-6500.kicad_sym")(options "")(descr ""))
+)

@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "ch343")(type "KiCad")(uri "${KIPRJMOD}/kicad-ch34x")(options "")(descr ""))
+  (lib (name "0_3300")(type "KiCad")(uri "${KIPRJMOD}/5to170/ELEC3300_5to170v/LM3481MM/0_3300.pretty")(options "")(descr ""))
+)
