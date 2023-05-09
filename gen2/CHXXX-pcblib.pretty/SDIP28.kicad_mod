@@ -1,0 +1,8 @@
+(module "SDIP28" (layer F.Cu) (tedit 5B0D3C36)
+  (arc (start -0.88900 -4.63550) (end -0.88900 -5.52450) (mid -0.44450 -5.08000) (layer F.SilkS) (width 0.254) )
+  (fp_line (start -0.88900 -1.52400) (end -0.88900 -4.63550) (layer Cmts.User) (width 0.254))
+  (fp_line (start -0.88900 -5.52450) (end -0.88900 -8.63600) (layer Cmts.User) (width 0.254))
+  (fp_line (start -0.88900 -8.63600) (end 24.00300 -8.63600) (layer Cmts.User) (width 0.254))
+  (fp_line (start 24.00300 -1.52400) (end 24.00300 -8.63600) (layer Cmts.User) (width 0.254))
+  (fp_line (start -0.88900 -1.52400) (end 24.00300 -1.52400) (layer Cmts.User) (width 0.254))
+)

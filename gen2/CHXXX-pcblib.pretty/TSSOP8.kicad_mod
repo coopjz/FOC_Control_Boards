@@ -1,0 +1,8 @@
+(module "TSSOP8" (layer F.Cu) (tedit 5B0D3C36)
+  (arc (start -0.57899 -2.29720) (end -0.57899 -3.49720) (mid 0.02101 -2.89720) (layer F.SilkS) (width 0.2) )
+  (fp_line (start 2.49710 -1.10000) (end 2.49710 -4.69440) (layer Cmts.User) (width 0.2))
+  (fp_line (start -0.57899 -3.49720) (end -0.57899 -4.69440) (layer Cmts.User) (width 0.2))
+  (fp_line (start -0.57899 -1.10000) (end -0.57899 -2.29720) (layer Cmts.User) (width 0.2))
+  (fp_line (start -0.57899 -1.10000) (end 2.49710 -1.10000) (layer Cmts.User) (width 0.2))
+  (fp_line (start -0.57899 -4.69440) (end 2.49710 -4.69440) (layer Cmts.User) (width 0.2))
+)

@@ -1,0 +1,8 @@
+(module "LQFP80_12X12" (layer F.Cu) (tedit 5B0D3C36)
+  (arc (start 1.82880 -3.30200) (end 1.82880 -3.30200) (mid 0.81280 -3.30200) (layer F.SilkS) (width 0.254) )
+  (fp_line (start 0.02540 -2.48920) (end 0.02540 -11.50620) (layer Cmts.User) (width 0.2032))
+  (fp_line (start 0.02540 -2.48920) (end 0.50800 -2.00660) (layer Cmts.User) (width 0.2032))
+  (fp_line (start 0.50800 -2.00660) (end 9.49960 -2.00660) (layer Cmts.User) (width 0.2032))
+  (fp_line (start 9.49960 -2.00660) (end 9.49960 -11.50620) (layer Cmts.User) (width 0.2032))
+  (fp_line (start 0.00000 -11.50620) (end 9.49960 -11.50620) (layer Cmts.User) (width 0.2032))
+)

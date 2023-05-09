@@ -1,0 +1,6 @@
+(module "DB9E" (layer F.Cu) (tedit 5B0D3C36)
+  (fp_line (start -1.01600 1.52400) (end -1.01600 -1.52400) (layer Cmts.User) (width 0.254))
+  (fp_line (start -1.01600 1.52400) (end 12.06500 1.52400) (layer Cmts.User) (width 0.254))
+  (fp_line (start 12.06500 1.52400) (end 12.06500 -1.52400) (layer Cmts.User) (width 0.254))
+  (fp_line (start -1.01600 -1.52400) (end 12.06500 -1.52400) (layer Cmts.User) (width 0.254))
+)

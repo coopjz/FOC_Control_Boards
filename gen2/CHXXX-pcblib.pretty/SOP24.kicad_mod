@@ -1,0 +1,8 @@
+(module "SOP24" (layer F.Cu) (tedit 5B0D3C36)
+  (arc (start -0.74700 -3.77951) (end -0.74700 -5.77951) (mid 0.25300 -4.77951) (layer F.SilkS) (width 0.2) )
+  (fp_line (start -0.74700 -1.19132) (end 14.65300 -1.19132) (layer Cmts.User) (width 0.2))
+  (fp_line (start 14.65300 -1.19132) (end 14.65300 -8.36769) (layer Cmts.User) (width 0.2))
+  (fp_line (start -0.74700 -8.36769) (end 14.65300 -8.36769) (layer Cmts.User) (width 0.2))
+  (fp_line (start -0.74700 -1.19132) (end -0.74700 -3.77951) (layer Cmts.User) (width 0.2))
+  (fp_line (start -0.74700 -5.77951) (end -0.74700 -8.36769) (layer Cmts.User) (width 0.2))
+)

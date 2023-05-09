@@ -1,0 +1,8 @@
+(module "LQFP64" (layer F.Cu) (tedit 5B0D3C36)
+  (arc (start 1.14300 -2.28600) (end 1.14300 -2.28600) (mid 0.38100 -2.28600) (layer F.SilkS) (width 0.254) )
+  (fp_line (start -0.39161 -1.94721) (end 0.40200 -1.15361) (layer Cmts.User) (width 0.2))
+  (fp_line (start -0.39161 -1.94721) (end -0.39161 -7.85921) (layer Cmts.User) (width 0.2032))
+  (fp_line (start 0.40200 -1.15361) (end 6.36479 -1.15361) (layer Cmts.User) (width 0.2032))
+  (fp_line (start 6.36479 -1.15361) (end 6.36479 -7.85921) (layer Cmts.User) (width 0.2032))
+  (fp_line (start -0.39161 -7.85921) (end 6.36479 -7.85921) (layer Cmts.User) (width 0.2032))
+)

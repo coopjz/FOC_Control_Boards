@@ -1,0 +1,7 @@
+(module "SOT-23-6" (layer F.Cu) (tedit 5B0D3C36)
+  (arc (start -0.67300 0.25000) (end -0.67300 0.25000) (mid -0.92700 0.25000) (layer F.SilkS) (width 0.0635) )
+  (fp_line (start -0.55000 -1.49000) (end 2.45000 -1.49000) (layer Cmts.User) (width 0.254))
+  (fp_line (start -0.55000 -0.90000) (end 2.45000 -0.90000) (layer Cmts.User) (width 0.254))
+  (fp_line (start -0.55000 -0.90000) (end -0.55000 -1.49000) (layer Cmts.User) (width 0.254))
+  (fp_line (start 2.45000 -0.90000) (end 2.45000 -1.49000) (layer Cmts.User) (width 0.254))
+)

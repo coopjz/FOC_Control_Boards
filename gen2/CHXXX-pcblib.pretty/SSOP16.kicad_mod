@@ -1,0 +1,8 @@
+(module "SSOP16" (layer F.Cu) (tedit 5B0D3C36)
+  (arc (start -0.82499 -3.07301) (end -0.82499 -4.27301) (mid -0.22499 -3.67301) (layer F.SilkS) (width 0.2) )
+  (fp_line (start -0.82499 -4.27299) (end -0.82499 -5.63801) (layer Cmts.User) (width 0.2))
+  (fp_line (start -0.82499 -5.63801) (end 5.37501 -5.63801) (layer Cmts.User) (width 0.2))
+  (fp_line (start 5.37501 -1.70800) (end 5.37501 -5.63801) (layer Cmts.User) (width 0.2))
+  (fp_line (start -0.82499 -1.70800) (end 5.37501 -1.70800) (layer Cmts.User) (width 0.2))
+  (fp_line (start -0.82499 -1.70800) (end -0.82499 -3.07299) (layer Cmts.User) (width 0.2))
+)

@@ -1,0 +1,8 @@
+(module "SDIP30" (layer F.Cu) (tedit 5B0D3C36)
+  (arc (start -1.65100 -4.63550) (end -1.65100 -5.52450) (mid -1.20650 -5.08000) (layer F.SilkS) (width 0.254) )
+  (fp_line (start -1.65100 -1.52400) (end 26.67000 -1.52400) (layer Cmts.User) (width 0.254))
+  (fp_line (start 26.67000 -1.52400) (end 26.67000 -8.63600) (layer Cmts.User) (width 0.254))
+  (fp_line (start -1.65100 -8.63600) (end 26.67000 -8.63600) (layer Cmts.User) (width 0.254))
+  (fp_line (start -1.65100 -5.52450) (end -1.65100 -8.63600) (layer Cmts.User) (width 0.254))
+  (fp_line (start -1.65100 -1.52400) (end -1.65100 -4.63550) (layer Cmts.User) (width 0.254))
+)

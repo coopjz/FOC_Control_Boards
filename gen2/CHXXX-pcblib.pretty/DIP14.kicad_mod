@@ -1,0 +1,8 @@
+(module "DIP14" (layer F.Cu) (tedit 5B0D3C36)
+  (arc (start -2.03200 -3.17500) (end -2.03200 -4.44500) (mid -1.39700 -3.81000) (layer F.SilkS) (width 0.254) )
+  (fp_line (start -2.03200 -1.27000) (end 17.27200 -1.27000) (layer Cmts.User) (width 0.254))
+  (fp_line (start 17.27200 -1.27000) (end 17.27200 -6.35000) (layer Cmts.User) (width 0.254))
+  (fp_line (start -2.03200 -6.35000) (end 17.27200 -6.35000) (layer Cmts.User) (width 0.254))
+  (fp_line (start -2.03200 -4.44500) (end -2.03200 -6.35000) (layer Cmts.User) (width 0.254))
+  (fp_line (start -2.03200 -1.27000) (end -2.03200 -3.17500) (layer Cmts.User) (width 0.254))
+)

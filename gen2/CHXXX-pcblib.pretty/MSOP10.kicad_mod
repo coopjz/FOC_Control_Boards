@@ -1,0 +1,8 @@
+(module "MSOP10" (layer F.Cu) (tedit 5B0D3C36)
+  (arc (start -0.50279 -1.80899) (end -0.50279 -2.50901) (mid -0.15278 -2.15900) (layer F.SilkS) (width 0.2) )
+  (fp_line (start -0.50279 -2.50899) (end -0.50279 -3.38699) (layer Cmts.User) (width 0.2))
+  (fp_line (start -0.50279 -0.93101) (end 2.49721 -0.93101) (layer Cmts.User) (width 0.2))
+  (fp_line (start 2.49721 -0.93101) (end 2.49721 -3.38699) (layer Cmts.User) (width 0.2))
+  (fp_line (start -0.50279 -3.38699) (end 2.49721 -3.38699) (layer Cmts.User) (width 0.2))
+  (fp_line (start -0.50279 -0.93101) (end -0.50279 -1.80901) (layer Cmts.User) (width 0.2))
+)

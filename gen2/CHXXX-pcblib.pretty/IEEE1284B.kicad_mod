@@ -1,0 +1,6 @@
+(module "IEEE1284B" (layer F.Cu) (tedit 5B0D3C36)
+  (fp_line (start -1.01600 1.77800) (end -1.01600 -1.77800) (layer Cmts.User) (width 0.254))
+  (fp_line (start -1.01600 -1.77800) (end 37.33800 -1.77800) (layer Cmts.User) (width 0.254))
+  (fp_line (start 37.33800 1.77800) (end 37.33800 -1.77800) (layer Cmts.User) (width 0.254))
+  (fp_line (start -1.01600 1.77800) (end 37.33800 1.77800) (layer Cmts.User) (width 0.254))
+)

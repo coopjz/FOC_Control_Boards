@@ -1,0 +1,8 @@
+(module "0402" (layer F.Cu) (tedit 5B0D3C36)
+  (fp_line (start -0.55000 0.57500) (end -0.55000 -0.57500) (layer Cmts.User) (width 0.2))
+  (fp_line (start 1.40000 0.57500) (end 1.40000 -0.57500) (layer Cmts.User) (width 0.2))
+  (fp_line (start -0.55000 -0.57500) (end 0.12500 -0.57500) (layer Cmts.User) (width 0.2))
+  (fp_line (start 0.72500 -0.57500) (end 1.40000 -0.57500) (layer Cmts.User) (width 0.2))
+  (fp_line (start -0.55000 0.57500) (end 0.12500 0.57500) (layer Cmts.User) (width 0.2))
+  (fp_line (start 0.72500 0.57500) (end 1.40000 0.57500) (layer Cmts.User) (width 0.2))
+)

@@ -1,0 +1,8 @@
+(module "SOIC-8_208mil" (layer F.Cu) (tedit 5B0D3C36)
+  (arc (start -0.63500 -2.84499) (end -0.63500 -4.11499) (mid 0.00000 -3.47999) (layer F.SilkS) (width 0.254) )
+  (fp_line (start -0.63500 -1.57999) (end -0.63500 -2.84499) (layer Cmts.User) (width 0.254))
+  (fp_line (start 4.44500 -1.57999) (end 4.44500 -5.37999) (layer Cmts.User) (width 0.254))
+  (fp_line (start -0.63500 -1.57999) (end 4.44500 -1.57999) (layer Cmts.User) (width 0.254))
+  (fp_line (start -0.63500 -4.11499) (end -0.63500 -5.37999) (layer Cmts.User) (width 0.254))
+  (fp_line (start -0.63500 -5.37999) (end 4.44500 -5.37999) (layer Cmts.User) (width 0.254))
+)

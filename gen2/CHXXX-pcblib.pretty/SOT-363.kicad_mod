@@ -1,0 +1,5 @@
+(module "SOT-363" (layer F.Cu) (tedit 5B0D3C36)
+  (arc (start -0.48242 0.20450) (end -0.48242 0.20450) (mid -0.69842 0.20450) (layer F.SilkS) (width 0.054) )
+  (fp_line (start -0.40640 -0.38100) (end -0.40640 -1.65100) (layer Cmts.User) (width 0.2032))
+  (fp_line (start 1.72720 -0.38100) (end 1.72720 -1.65100) (layer Cmts.User) (width 0.2032))
+)

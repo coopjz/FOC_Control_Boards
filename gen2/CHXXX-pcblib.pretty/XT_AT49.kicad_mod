@@ -1,0 +1,6 @@
+(module "XT_AT49" (layer F.Cu) (tedit 5B0D3C36)
+  (arc (start 2.29617 -5.82089) (end -2.29605 -5.82218) (mid 0.00064 -7.90677) (layer F.SilkS) (width 0.254) )
+  (arc (start -2.30830 0.83871) (end 2.30798 0.84479) (mid -0.00305 3.03135) (layer F.SilkS) (width 0.254) )
+  (fp_line (start 2.30000 0.96522) (end 2.30000 -5.84000) (layer Cmts.User) (width 0.254))
+  (fp_line (start -2.30000 -5.84000) (end -2.30000 0.95999) (layer Cmts.User) (width 0.254))
+)

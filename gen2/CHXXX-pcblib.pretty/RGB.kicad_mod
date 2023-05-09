@@ -1,0 +1,7 @@
+(module "RGB" (layer F.Cu) (tedit 5B0D3C36)
+  (fp_line (start -1.09220 -1.04140) (end 3.83540 -1.04140) (layer Cmts.User) (width 0.2032))
+  (fp_line (start 3.83540 2.79400) (end 3.83540 -1.04140) (layer Cmts.User) (width 0.2032))
+  (fp_line (start -1.09220 2.79400) (end 3.83540 2.79400) (layer Cmts.User) (width 0.2032))
+  (fp_line (start -1.09220 2.79400) (end -1.09220 -1.04140) (layer Cmts.User) (width 0.2032))
+  (fp_line (start -1.09041 -0.40431) (end -0.35201 -1.03722) (layer Cmts.User) (width 0.2032))
+)

@@ -1,0 +1,3 @@
+(module "ANT-F-1-2.4G-0.8mmFR4-WCH" (layer F.Cu) (tedit 5B0D3C36)
+  (fp_line (start 0.00000 0.00000) (end -3.17534 1.41925) (layer Cmts.User) (width 0.889))
+)

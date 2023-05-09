@@ -1,0 +1,8 @@
+(module "PQFP52" (layer F.Cu) (tedit 5B0D3C36)
+  (arc (start 0.88900 -2.74320) (end 0.88900 -2.74320) (mid 0.12700 -2.74320) (layer F.SilkS) (width 0.254) )
+  (fp_line (start 0.26998 -1.43500) (end 12.86500 -1.43500) (layer Cmts.User) (width 0.2))
+  (fp_line (start 12.86500 -1.43500) (end 12.86500 -15.16499) (layer Cmts.User) (width 0.2))
+  (fp_line (start -0.86502 -15.16499) (end 12.86500 -15.16499) (layer Cmts.User) (width 0.2))
+  (fp_line (start -0.86502 -2.57000) (end -0.86502 -15.16499) (layer Cmts.User) (width 0.2))
+  (fp_line (start -0.86502 -2.57000) (end 0.26998 -1.43500) (layer Cmts.User) (width 0.2))
+)

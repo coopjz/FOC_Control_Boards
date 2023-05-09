@@ -1,0 +1,8 @@
+(module "ESOP8" (layer F.Cu) (tedit 5B0D3C36)
+  (arc (start -0.63500 -2.15900) (end -0.63500 -3.42900) (mid -0.25098 -2.79400) (layer F.SilkS) (width 0.2032) )
+  (fp_line (start -0.63500 -1.52400) (end 4.44500 -1.52400) (layer Cmts.User) (width 0.2032))
+  (fp_line (start 4.44500 -1.52400) (end 4.44500 -4.06400) (layer Cmts.User) (width 0.2032))
+  (fp_line (start -0.63500 -4.06400) (end 4.44500 -4.06400) (layer Cmts.User) (width 0.2032))
+  (fp_line (start -0.63500 -3.42900) (end -0.63500 -4.06400) (layer Cmts.User) (width 0.2032))
+  (fp_line (start -0.63500 -1.52400) (end -0.63500 -2.15900) (layer Cmts.User) (width 0.2032))
+)

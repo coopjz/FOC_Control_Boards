@@ -1,0 +1,6 @@
+(module "IRDA6P" (layer F.Cu) (tedit 5B0D3C36)
+  (fp_line (start -1.42240 0.76200) (end -1.42240 -8.53440) (layer Cmts.User) (width 0.254))
+  (fp_line (start -1.42240 0.76200) (end 3.45440 0.76200) (layer Cmts.User) (width 0.254))
+  (fp_line (start 3.45440 0.76200) (end 3.45440 -8.53440) (layer Cmts.User) (width 0.254))
+  (fp_line (start -1.42240 -8.53440) (end 3.45440 -8.53440) (layer Cmts.User) (width 0.254))
+)

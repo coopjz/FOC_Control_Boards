@@ -1,0 +1,8 @@
+(module "SATA22P" (layer F.Cu) (tedit 5B0D3C36)
+  (fp_line (start 0.55110 23.50000) (end 0.55110 18.42500) (layer Cmts.User) (width 0.254))
+  (fp_line (start 0.55110 -0.67610) (end 0.55110 -5.50000) (layer Cmts.User) (width 0.254))
+  (fp_line (start 0.55110 37.20000) (end 0.55110 32.37610) (layer Cmts.User) (width 0.254))
+  (fp_line (start 9.75110 37.20000) (end 9.75110 -5.50000) (layer Cmts.User) (width 0.254))
+  (fp_line (start 0.55110 -5.50000) (end 9.75110 -5.50000) (layer Cmts.User) (width 0.254))
+  (fp_line (start 0.55110 37.20000) (end 9.75110 37.20000) (layer Cmts.User) (width 0.254))
+)

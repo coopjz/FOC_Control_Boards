@@ -1,0 +1,7 @@
+(module "USB3.0-A-Receptacle" (layer F.Cu) (tedit 5B0D3C36)
+  (fp_line (start 10.07001 14.04099) (end 10.07001 -2.85001) (layer Cmts.User) (width 0.2))
+  (fp_line (start -3.12999 -2.85001) (end 10.07001 -2.85001) (layer Cmts.User) (width 0.2))
+  (fp_line (start -3.13799 14.04099) (end -3.13799 -2.85001) (layer Cmts.User) (width 0.2))
+  (fp_line (start -3.13799 14.04099) (end 10.07001 14.04099) (layer Cmts.User) (width 0.2))
+  (fp_line (start -1.32999 -2.85001) (end 1.24501 -2.85001) (layer Cmts.User) (width 0.2))
+)

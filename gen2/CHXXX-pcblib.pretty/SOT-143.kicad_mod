@@ -1,0 +1,6 @@
+(module "SOT-143" (layer F.Cu) (tedit 5B0D3C36)
+  (fp_line (start 0.35560 -1.67640) (end 1.16840 -1.67640) (layer Cmts.User) (width 0.2032))
+  (fp_line (start 2.20980 -0.38100) (end 2.20980 -1.67640) (layer Cmts.User) (width 0.2032))
+  (fp_line (start -0.68580 -0.38100) (end -0.68580 -1.67640) (layer Cmts.User) (width 0.2032))
+  (fp_line (start 0.71120 -0.38100) (end 1.16840 -0.38100) (layer Cmts.User) (width 0.2032))
+)

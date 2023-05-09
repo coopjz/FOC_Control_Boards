@@ -1,0 +1,8 @@
+(module "PQFP80" (layer F.Cu) (tedit 5B0D3C36)
+  (arc (start 1.90500 -3.81000) (end 1.90500 -3.81000) (mid 0.88900 -3.81000) (layer F.SilkS) (width 0.254) )
+  (fp_line (start 0.00000 -14.40180) (end 18.41500 -14.40180) (layer Cmts.User) (width 0.2032))
+  (fp_line (start 18.41500 -2.41300) (end 18.41500 -14.40180) (layer Cmts.User) (width 0.2032))
+  (fp_line (start 0.81280 -2.41300) (end 18.41500 -2.41300) (layer Cmts.User) (width 0.2032))
+  (fp_line (start 0.02540 -3.20040) (end 0.81280 -2.41300) (layer Cmts.User) (width 0.2032))
+  (fp_line (start 0.00000 -3.20040) (end 0.00000 -14.40180) (layer Cmts.User) (width 0.2032))
+)

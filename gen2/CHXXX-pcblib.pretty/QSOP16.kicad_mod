@@ -1,0 +1,8 @@
+(module "QSOP16" (layer F.Cu) (tedit 5B0D3C36)
+  (arc (start 1.17345 -1.75202) (end 1.17345 -1.75202) (mid 0.35013 -1.75202) (layer F.SilkS) (width 0.254) )
+  (arc (start 0.05000 1.20000) (end 0.05000 1.20000) (mid -0.25000 1.20000) (layer F.SilkS) (width 0.075) )
+  (fp_line (start 4.67251 -0.85000) (end 4.67251 -4.75000) (layer Cmts.User) (width 0.254))
+  (fp_line (start -0.22749 -0.85000) (end 4.67251 -0.85000) (layer Cmts.User) (width 0.254))
+  (fp_line (start -0.22749 -0.85000) (end -0.22749 -4.75000) (layer Cmts.User) (width 0.254))
+  (fp_line (start -0.22749 -4.75000) (end 4.67251 -4.75000) (layer Cmts.User) (width 0.254))
+)

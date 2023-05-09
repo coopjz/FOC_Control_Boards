@@ -1,0 +1,5 @@
+(module "CD0.1" (layer F.Cu) (tedit 5B0D3C36)
+  (arc (start 3.81000 0.00000) (end 3.81000 -0.00000) (mid -1.27000 0.00000) (layer F.SilkS) (width 0.254) )
+  (fp_line (start -1.77800 0.50800) (end -1.77800 -0.50800) (layer Cmts.User) (width 0.254))
+  (fp_line (start -2.28600 0.00000) (end -1.27000 0.00000) (layer Cmts.User) (width 0.254))
+)

@@ -1,0 +1,8 @@
+(module "DIP28W" (layer F.Cu) (tedit 5B0D3C36)
+  (arc (start -1.27000 -6.98500) (end -1.27000 -8.25500) (mid -0.63500 -7.62000) (layer F.SilkS) (width 0.2032) )
+  (fp_line (start -1.27000 -1.27000) (end 34.29000 -1.27000) (layer Cmts.User) (width 0.2032))
+  (fp_line (start 34.29000 -1.27000) (end 34.29000 -13.97000) (layer Cmts.User) (width 0.2032))
+  (fp_line (start -1.27000 -13.97000) (end 34.29000 -13.97000) (layer Cmts.User) (width 0.2032))
+  (fp_line (start -1.27000 -8.25500) (end -1.27000 -13.97000) (layer Cmts.User) (width 0.2032))
+  (fp_line (start -1.27000 -1.27000) (end -1.27000 -6.98500) (layer Cmts.User) (width 0.2032))
+)

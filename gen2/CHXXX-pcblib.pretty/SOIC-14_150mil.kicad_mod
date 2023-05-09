@@ -1,0 +1,8 @@
+(module "SOIC-14_150mil" (layer F.Cu) (tedit 5B0D3C36)
+  (arc (start -0.39000 -1.96500) (end -0.39000 -3.23500) (mid 0.24500 -2.60000) (layer F.SilkS) (width 0.254) )
+  (fp_line (start -0.39000 -1.20000) (end 8.01000 -1.20000) (layer Cmts.User) (width 0.254))
+  (fp_line (start -0.39000 -4.00000) (end 8.01000 -4.00000) (layer Cmts.User) (width 0.254))
+  (fp_line (start 8.01000 -1.20000) (end 8.01000 -4.00000) (layer Cmts.User) (width 0.254))
+  (fp_line (start -0.39000 -3.23500) (end -0.39000 -4.00000) (layer Cmts.User) (width 0.254))
+  (fp_line (start -0.39000 -1.20000) (end -0.39000 -1.96500) (layer Cmts.User) (width 0.254))
+)
