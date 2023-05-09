@@ -4,5 +4,6 @@
 - BUGS: BUCK feedback
 - BUGS: Hall sensor MISO
 
-Author: Ed, Cooper
-Thanks to: Ethan, eassse, Jason
+**Author: Ed, Cooper**
+
+**Thanks to:** Ethan, eassse, Jason
