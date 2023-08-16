@@ -4,6 +4,10 @@
 - BUGS: BUCK feedback
 - BUGS: Hall sensor MISO
 
+## SoftWare
+All the firmware :
+url{https://github.com/coopjz/ELEC3300-Firmware}
+
 **Author: Ed, Cooper**
 
 **Thanks to:** Ethan, eassse, Jason
