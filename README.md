@@ -6,7 +6,7 @@
 
 ## SoftWare
 All the firmware :
-url{https://github.com/coopjz/ELEC3300-Firmware}
+url{https://github.com/coopjz/ELEC3300-Firmware }
 
 **Author: Ed, Cooper**
 
